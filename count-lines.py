@@ -1,8 +1,6 @@
 import sys
-"""Adding document locally"""
-"""
-This module coutns the number of lines in standard input
-Input: any string from system standard input"""
+
+"""Adding document locally adding to server"""
 
 count = 0
 
